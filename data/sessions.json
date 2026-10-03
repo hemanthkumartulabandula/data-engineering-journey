@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2026-10-03",
+    "topic": "Set up uv and Git",
+    "minutes": 60
+  },
+  {
+    "date": "2026-10-03",
+    "topic": "Learned pathlib and return values",
+    "minutes": 30
+  },
+  {
+    "date": "2026-10-03",
+    "topic": "Learned sets, dates and while loops",
+    "minutes": 45
+  }
+]
